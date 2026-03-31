@@ -1,0 +1,5 @@
+{
+  "name": "Linka - Accompagnement Senior",
+  "description": "Une application d'accompagnement quotidien pour les seniors et de suivi pour leurs proches, avec monitoring de santé, humeur et alertes.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
